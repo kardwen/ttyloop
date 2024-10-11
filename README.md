@@ -23,7 +23,7 @@
 
 A terminal clone of the mobile game Loop.
 
-To win, turn each of the tiles such that there are no loose ends.
+To win, you must rotate the individual tiles until you have a path of maximum length.
 
 ---
 
